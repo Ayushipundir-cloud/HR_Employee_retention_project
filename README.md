@@ -1,4 +1,4 @@
-# 👥 HR Analytics Dashboard | Power BI
+# HR Analytics Dashboard | Power BI
 
 An interactive **Power BI dashboard** built to analyze employee attrition, workforce demographics, compensation trends, and work-life balance — enabling HR teams and business leaders to make smarter, data-backed people decisions.
 
@@ -127,5 +127,10 @@ CALCULATE(
 - **Promotion Policy Review** — Use promotion history vs. attrition data to redesign career ladders
 - **Workforce Planning** — Anticipate headcount gaps based on attrition trends
 - **Executive Reporting** — Clean, single-page summary for C-suite and CHRO reviews
+
+- <img width="853" height="480" alt="Hr Recording" src="https://github.com/user-attachments/assets/7caca026-b668-418a-96c0-465f77eecd08" />
+
+
+- 
 
 
