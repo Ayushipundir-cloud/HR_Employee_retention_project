@@ -131,6 +131,4 @@ CALCULATE(
 - <img width="853" height="480" alt="Hr Recording" src="https://github.com/user-attachments/assets/7caca026-b668-418a-96c0-465f77eecd08" />
 
 
-- 
-
 
